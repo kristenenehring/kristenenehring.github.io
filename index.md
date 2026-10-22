@@ -13,3 +13,8 @@ I study blah blah blah
 ## Contact
 
 knehrin1@uwyo.edu
+
+## Additional Information
+
+[Download my CV](CV_Nehring (3).pdf)
+[UW Geology and Geophysics](https://www.uwyo.edu/geolgeophys/)
