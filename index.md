@@ -18,3 +18,7 @@ knehrin1@uwyo.edu
 
 [Download my CV](CV_Nehring (3).pdf)
 [UW Geology and Geophysics](https://www.uwyo.edu/geolgeophys/)
+
+## Field Work
+
+![Headshot](images/Headshot.png)
