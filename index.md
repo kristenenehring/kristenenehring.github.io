@@ -1,6 +1,7 @@
---
+---
 layout:default
 ---
+
 # Kristen Nehring
 
 PhD Student, Geology, University of Wyoming
